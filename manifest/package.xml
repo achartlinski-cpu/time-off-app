@@ -7,6 +7,5 @@
     <types><members>*</members><name>PermissionSet</name></types>
     <types><members>*</members><name>ApexClass</name></types>
     <types><members>*</members><name>ApexTrigger</name></types>
-    <types><members>*</members><name>VisualforcePages</name></types>
     <version>58.0</version>
 </Package>
