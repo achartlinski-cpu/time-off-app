@@ -27,11 +27,9 @@
             </value>
         </inputParameters>
         <nameSegment>chatterPost</nameSegment>
-        <offset>0</offset>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </actionCalls>
     <apiVersion>65.0</apiVersion>
-    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <environments>Default</environments>
     <interviewLabel>Post to Chatter on Account Change {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Post to Chatter on Account Change</label>

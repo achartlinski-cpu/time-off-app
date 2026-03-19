@@ -21,7 +21,6 @@
             </value>
         </inputParameters>
         <nameSegment>chatterPost</nameSegment>
-        <offset>0</offset>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </actionCalls>
     <actionCalls>
@@ -45,11 +44,9 @@
             </value>
         </inputParameters>
         <nameSegment>chatterPost</nameSegment>
-        <offset>0</offset>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </actionCalls>
     <apiVersion>66.0</apiVersion>
-    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <decisions>
         <name>Approved_or_Rejected</name>
         <label>Approved or Rejected</label>

@@ -21,11 +21,9 @@
             </value>
         </inputParameters>
         <nameSegment>chatterPost</nameSegment>
-        <offset>0</offset>
         <storeOutputAutomatically>true</storeOutputAutomatically>
     </actionCalls>
     <apiVersion>65.0</apiVersion>
-    <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <environments>Default</environments>
     <interviewLabel>Check Contact Fields Daily {!$Flow.CurrentDateTime}</interviewLabel>
     <label>Check Contact Fields Daily</label>
