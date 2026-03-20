@@ -25,11 +25,6 @@
                 <label>Family member care</label>
             </value>
             <value>
-                <fullName>Military service</fullName>
-                <default>false</default>
-                <label>Military service</label>
-            </value>
-            <value>
                 <fullName>Maternity leave</fullName>
                 <default>false</default>
                 <label>Maternity leave</label>
@@ -43,6 +38,12 @@
                 <fullName>Paternity leave</fullName>
                 <default>false</default>
                 <label>Paternity leave</label>
+            </value>
+            <value>
+                <fullName>Military service</fullName>
+                <default>false</default>
+                <isActive>false</isActive>
+                <label>Military service</label>
             </value>
         </valueSetDefinition>
     </valueSet>
